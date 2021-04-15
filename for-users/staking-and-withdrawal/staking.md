@@ -7,7 +7,7 @@ description: This guide describes how to stake in the Native BonFi DeFi Products
 ## Before you begin
 
 {% hint style="warning" %}
-Disclaimer: Use Smart Contracts at your own Risk \[LINK\]
+Disclaimer: Use Smart Contracts at your own Risk
 {% endhint %}
 
 As part of BonFi's comprehensive offering, the platform offers **audited smart contract staking** as part of the Native DeFi Products. This offering is accessible to all users of the platform, however, in order to unlock the benefits of the full platform a user has to stake a minimum of 2500 BNF in either the Rookie or Professional staking pools. 
