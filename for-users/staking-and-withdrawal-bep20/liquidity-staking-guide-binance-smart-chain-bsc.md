@@ -8,7 +8,7 @@ description: >-
 
 ## Why liquidity staking yields the highest APY
 
-Liquidity staking is a fantastic product that allows users to **earn double rewards** on providing liquidity to the PancakeSwap BNF-BNB pair. As a liquidity provider \(LP\), users receive higher staking APY **and** a share of the 0.3% pool fee, distributed pro-rata to all LPs for every trade.
+Liquidity staking is a fantastic product that allows users to **earn double rewards** on providing liquidity to the PancakeSwap BNF-BNB pair. As a liquidity provider \(LP\), users receive higher staking APY **and** a share of the 0.17% pool fee, distributed pro-rata to all LPs for every trade.
 
 It is the ultimate way to earn passive rewards because users will receive high BNF APY rewards and additional BNF and ETH as part of the pool reward. Liquidity staking provides double incentivizes to LPs as they earn double rewards passively.
 
@@ -155,6 +155,6 @@ After the transaction is successful, please click on the Confirm button and wait
 ### **Important**
 
 * **Users can only stake 1 time in each staking pool**
-* UNI-V2 tokens will continue to earn pool rewards \(0.3% pro-rated transaction fees\), even after the maturity of the pool
+* UNI-V2 tokens will continue to earn pool rewards \(0.17% pro-rated transaction fees\), even after the maturity of the pool
 * **Staking requires the users to interact with the staking contract twice**. The first transaction approves the spending limit \(i.e. maximum approved staking amount\), while the second transaction deposits/locks the funds in the staking contract. If a user only interacts with the contract once, funds will remain in their wallet unstaked. To avoid this, users are encouraged to check their balance after staking and/or manually click on _Stake_ to confirm that staking was completed successfully.
 
