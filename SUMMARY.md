@@ -23,6 +23,7 @@
   * [Staking Guide - Binance Smart Chain \(BSC\)](for-users/staking-and-withdrawal-bep20/staking-guide-binance-smart-chain-bsc.md)
   * [Dual Yield Staking Guide - Binance Smart Chain \(BSC\)](for-users/staking-and-withdrawal-bep20/dual-yield-staking-guide-binance-smart-chain-bsc.md)
   * [Withdraw - Binance Smart Chain \(BSC\)](for-users/staking-and-withdrawal-bep20/withdraw-binance-smart-chain-bsc.md)
+* [BNF Token Swapping](for-users/bnf-token-swapping.md)
 * [FAQ](for-users/faq.md)
 
 ## Whitepaper
