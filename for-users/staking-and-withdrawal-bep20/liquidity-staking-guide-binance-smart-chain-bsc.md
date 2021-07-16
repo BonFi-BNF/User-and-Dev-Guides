@@ -10,7 +10,7 @@ description: >-
 
 Liquidity staking is a fantastic product that allows users to **earn double rewards** on providing liquidity to the PancakeSwap BNF-BNB pair. As a liquidity provider \(LP\), users receive higher staking APY **and** a share of the 0.17% pool fee, distributed pro-rata to all LPs for every trade.
 
-It is the ultimate way to earn passive rewards because users will receive high BNF APY rewards and additional BNF and ETH as part of the pool reward. Liquidity staking provides double incentivizes to LPs as they earn double rewards passively.
+It is the ultimate way to earn passive rewards because users will receive high BNF APY rewards and additional BNF and BNB as part of the pool reward. Liquidity staking provides double incentivizes to LPs as they earn double rewards passively.
 
 ## Before you begin
 
@@ -52,7 +52,7 @@ Ensure your wallet holding your BEP-20 assets has a sufficient BNB balance to co
 
 ![](https://lh6.googleusercontent.com/7UfInV4nZgm0mL3Vnxl2cjV8KaN9m6yfv-Uc3kenjoOJPBVo0pACw1wS9cAUNnQ_hgzzX_AsAhad8Va4rlsR95b3WS1tTAMUgiLnxCmLjk3PpXm0JXPqvE6rVbr5AWQinM2_ocNX)
 
-**Step 4:** For the bottom input, click ‘Select a currency’ and pick CAKE.
+**Step 4:** For the bottom input, click ‘Select a currency’ and pick BNF \(CAKE is used as an example\).
 
 ![](https://lh5.googleusercontent.com/r8RXCF8oe-SNr1JGqB7kkKk-piDeRuaCfWf9mdQgyc0dERMwJln1H5qQzpUWW5vtyIh5WyYN6AvLNv0MAcSlwB8tkD2NS1WJdcaXQ1K1ce2pST0RIoYbEURFUWJEt_CXZyLqNEmz)
 
@@ -64,7 +64,7 @@ Ensure your wallet holding your BEP-20 assets has a sufficient BNB balance to co
 
 ![](https://lh4.googleusercontent.com/o0NqkRyK2OPYADQmFHBJBkUvHrjxqftEHNrN7m2qQiXJYkdMAZhU27590R7djMwXzZZtnwZ1M0KUZqBbKpNlw7p9xN4TXKcAP0sswIQ2sJPiWBSGcKFZH7sOTZKE-vttYdIU0aQc)
 
-**Step 6:** Click the **Approve CAKE** button. Your wallet will ask you to confirm the action.
+**Step 6:** Click the **Approve BNF** button. Your wallet will ask you to confirm the action.
 
 ![](https://lh5.googleusercontent.com/wcvUd1a-8NWhODzy_dHmLZ2OouC6DlHONRGRNUScEf9gSJeyf70aXOyQK0gFaI_wwXjXhifeYAHTbfX5B7VoIcVGCclZidnT-8ZkCfAzBVJMGwC0_dHiNnXIwcwSEvE_sSzzPARO)
 
@@ -128,7 +128,7 @@ Step 2: Paste the following **Token Contract Address:** [**0xeB8195bd9aC4fFD3Be2
 
 ![](../../.gitbook/assets/image%20%2833%29.png)
 
-**Step 3:** A pop-up will appear waiting for confirmation. Navigate to MetaMask or WalletConnect to _Confirm_  the spend limit and wait for the transaction to be confirmed while the transaction is being processed.
+**Step 3:** A pop-up will appear waiting for confirmation. Navigate to MetaMask or WalletConnect to _Confirm_ the spending limit and wait for the transaction to be confirmed while the transaction is being processed.
 
 ![](../../.gitbook/assets/image%20%287%29.png)
 
@@ -144,7 +144,7 @@ After the transaction is successful, please click on the Confirm button and wait
 
 ![](../../.gitbook/assets/image%20%282%29.png)
 
-**Step 5:** A pop-up will appear waiting for confirmation. Navigate to MetaMask or WalletConnect to _Confirm_  the amount of BNF and wait for the transaction to be confirmed while the transaction is being processed.
+**Step 5:** A pop-up will appear waiting for confirmation. Navigate to MetaMask or WalletConnect to _Confirm_ the amount of BNF and wait for the transaction to be confirmed while the transaction is being processed.
 
 ![](../../.gitbook/assets/image%20%2818%29.png)
 
@@ -155,6 +155,6 @@ After the transaction is successful, please click on the Confirm button and wait
 ### **Important**
 
 * **Users can only stake 1 time in each staking pool**
-* UNI-V2 tokens will continue to earn pool rewards \(0.17% pro-rated transaction fees\), even after the maturity of the pool
-* **Staking requires the users to interact with the staking contract twice**. The first transaction approves the spending limit \(i.e. maximum approved staking amount\), while the second transaction deposits/locks the funds in the staking contract. If a user only interacts with the contract once, funds will remain in their wallet unstaked. To avoid this, users are encouraged to check their balance after staking and/or manually click on _Stake_ to confirm that staking was completed successfully.
+* CAKE-V2 tokens will continue to earn pool rewards \(0.17% pro-rated transaction fees\), even after the maturity of the pool
+* **Staking requires the users to interact with the staking contract twice**. The first transaction approves the spending limit \(i.e. maximum approved staking amount\), while the second transaction deposits/locks the funds in the staking contract. If a user only interacts with the contract once, funds will remain in their wallet un-staked. To avoid this, users are encouraged to check their balance after staking and/or manually click on _Stake_ to confirm that staking was completed successfully.
 
