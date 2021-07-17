@@ -79,7 +79,7 @@ Ensure your wallet holding your BEP-20 assets has a sufficient BNB balance to co
 You can repeat the steps above to add more liquidity at any time.
 
 {% hint style="success" %}
-**BNF contract address:** 
+**BNF BSC contract address:** 0xca14caf9e8dd2793e7010fc48dfe6c6af8445136
 {% endhint %}
 
 {% hint style="danger" %}
