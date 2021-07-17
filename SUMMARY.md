@@ -11,6 +11,8 @@
   * [Using the BonFi Platform](for-users/getting-started/using-the-bonfi-platform.md)
   * [BNF Token Utility](for-users/getting-started/bnf-token-utility.md)
   * [Platform User Tiers](for-users/getting-started/platform-user-tiers.md)
+* [BNF Token Swap Guide](for-users/bnf-token-swapping/README.md)
+  * [BNF \(BEP20\) Swap Guide](for-users/bnf-token-swapping/bnf-bep20-swap-guide.md)
 * [Staking & Withdrawal \(ERC-20\)](for-users/staking-and-withdrawal-erc20/README.md)
   * [Connect your Wallet](for-users/staking-and-withdrawal-erc20/wallet.md)
   * [Liquidity Staking Guide](for-users/staking-and-withdrawal-erc20/liquidity-staking-guide.md)
@@ -23,8 +25,6 @@
   * [Staking Guide - Binance Smart Chain \(BSC\)](for-users/staking-and-withdrawal-bep20/staking-guide-binance-smart-chain-bsc.md)
   * [Dual Yield Staking Guide - Binance Smart Chain \(BSC\)](for-users/staking-and-withdrawal-bep20/dual-yield-staking-guide-binance-smart-chain-bsc.md)
   * [Withdraw - Binance Smart Chain \(BSC\)](for-users/staking-and-withdrawal-bep20/withdraw-binance-smart-chain-bsc.md)
-* [BNF Token Swap Guide](for-users/bnf-token-swapping/README.md)
-  * [BNF \(BEP20\) Swap Guide](for-users/bnf-token-swapping/bnf-bep20-swap-guide.md)
 * [FAQ](for-users/faq.md)
 
 ## Whitepaper
