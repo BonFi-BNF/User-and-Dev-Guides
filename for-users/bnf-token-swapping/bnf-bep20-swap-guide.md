@@ -4,6 +4,8 @@ description: Swap BNF ERC20 token to BEP20 standard using cross-chain swap.
 
 # BNF \(BEP20\) Swap Guide
 
+![](../../.gitbook/assets/image%20%2851%29.png)
+
 ## Before you begin
 
 {% hint style="warning" %}
