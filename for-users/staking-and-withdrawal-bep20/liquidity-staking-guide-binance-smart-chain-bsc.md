@@ -40,7 +40,7 @@ Ensure your wallet holding your BEP-20 assets has a sufficient BNB balance to co
 
 ## Add liquidity to PancakeSwap \(BNF-BNB pair\)
 
-**Step 1:** Visit the [Liquidity page](https://exchange.pancakeswap.finance/#/pool).
+**Step 1:** Visit the [Liquidity page](https://pancakeswap.finance/swap?outputCurrency=0xca14caf9e8dd2793e7010fc48dfe6c6af8445136).
 
 ![](https://lh3.googleusercontent.com/hfW_TUaVduHQ2dKUPuZVq8jX20QPNQZXHbcHM1uRDzAaS5_c3oaNb75UfEECpoGj4dLsarnPuwCiezy7rWu6EZdGXFk48G1dR7fVA93U5LKe_o-YBHlMgzH7BNGlOb7f7yRNwhEm)
 
@@ -96,7 +96,7 @@ Step 1: Go back to your MetaMask wallet. Click on _Assets_**.** Scroll down and 
 
 ![](../../.gitbook/assets/image%20%2821%29.png)
 
-Step 2: Paste the following **Token Contract Address:** [**0xeB8195bd9aC4fFD3Be2056dB1A8e8c66B2708028**](https://etherscan.io/address/0xeB8195bd9aC4fFD3Be2056dB1A8e8c66B2708028) ****and click _Next_.
+Step 2: Paste the following **Token Contract Address:** [**0xca14caf9e8dd2793e7010fc48dfe6c6af8445136** ](https://bscscan.com/token/0xca14caf9e8dd2793e7010fc48dfe6c6af8445136?a=0x44e349534f785053844519db0a01a420106bc690)and click _Next_.
 
 ![](../../.gitbook/assets/image%20%2816%29.png)
 
