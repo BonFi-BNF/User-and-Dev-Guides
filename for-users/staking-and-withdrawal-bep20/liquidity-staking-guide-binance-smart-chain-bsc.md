@@ -27,6 +27,7 @@ As part of BonFi's comprehensive offering, the platform offers **audited liquidi
 * BEP-20 token assets \(i.e. BNF\)
 * LP token \(i.e. BNF-BNB pair CAKE-V2\) 
 * MetaMask app
+* PancakeSwap pool: [**https://pancakeswap.finance/swap?outputCurrency=0xca14caf9e8dd2793e7010fc48dfe6c6af8445136**](https://pancakeswap.finance/swap?outputCurrency=0xca14caf9e8dd2793e7010fc48dfe6c6af8445136)\*\*\*\*
 
 {% hint style="info" %}
 Ensure your wallet holding your BEP-20 assets has a sufficient BNB balance to cover gas fees
