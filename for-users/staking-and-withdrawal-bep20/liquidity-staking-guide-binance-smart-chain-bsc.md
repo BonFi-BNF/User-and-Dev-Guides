@@ -53,7 +53,9 @@ Ensure your wallet holding your BEP-20 assets has a sufficient BNB balance to co
 
 ![](https://lh6.googleusercontent.com/7UfInV4nZgm0mL3Vnxl2cjV8KaN9m6yfv-Uc3kenjoOJPBVo0pACw1wS9cAUNnQ_hgzzX_AsAhad8Va4rlsR95b3WS1tTAMUgiLnxCmLjk3PpXm0JXPqvE6rVbr5AWQinM2_ocNX)
 
-**Step 4:** For the bottom input, click ‘Select a currency’ and pick BNF \(CAKE is used as an example\).
+**Step 4:** For the bottom input, click ‘Select a currency’ and pick BNF \(CAKE is used as an example\). Direct link: 
+
+* [**https://pancakeswap.finance/swap?outputCurrency=0xca14caf9e8dd2793e7010fc48dfe6c6af8445136**](https://pancakeswap.finance/swap?outputCurrency=0xca14caf9e8dd2793e7010fc48dfe6c6af8445136)\*\*\*\*
 
 ![](https://lh5.googleusercontent.com/r8RXCF8oe-SNr1JGqB7kkKk-piDeRuaCfWf9mdQgyc0dERMwJln1H5qQzpUWW5vtyIh5WyYN6AvLNv0MAcSlwB8tkD2NS1WJdcaXQ1K1ce2pST0RIoYbEURFUWJEt_CXZyLqNEmz)
 
@@ -97,13 +99,13 @@ Step 1: Go back to your MetaMask wallet. Click on _Assets_**.** Scroll down and 
 
 ![](../../.gitbook/assets/image%20%2821%29.png)
 
-Step 2: Paste the following **Token Contract Address:** [**0xca14caf9e8dd2793e7010fc48dfe6c6af8445136** ](https://bscscan.com/token/0xca14caf9e8dd2793e7010fc48dfe6c6af8445136?a=0x44e349534f785053844519db0a01a420106bc690)and click _Next_.
+Step 2: Paste the following **Token Contract Address: 0x44E349534f785053844519dB0A01A420106BC690** and click _Next_.
 
-![](../../.gitbook/assets/image%20%2816%29.png)
+![](../../.gitbook/assets/meta.png)
 
-**Step 3:** Click _Add Token_. Now you will be able to see and manage your LP tokens in your MetaMask wallet. 
+**Step 3:** Click _Add Token_. Now you will be able to see and manage your Cake-LP tokens in your MetaMask wallet. 
 
-![](../../.gitbook/assets/image%20%2815%29.png)
+![](../../.gitbook/assets/meta2.png)
 
 {% hint style="warning" %}
 **Important:**
